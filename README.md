@@ -2,4 +2,4 @@
 
 Goma and Peach theme OS
 
-Scientific OS(ISO image) like KALI but full of scientific tools
+Scientific OS(ISO image) like KALI Linux but full of scientific tools
