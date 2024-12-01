@@ -8,4 +8,4 @@ Scientific OS(ISO image) like KALI Linux but full of scientific tools
 
 typo in chinese be (cough blood too!)
 
-[https://www.youtube.com/watch?v=OWJCfOvochA](https://www.youtube.com/watch?v=OWJCfOvochA)
+[Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty | WIRED]([https://www.youtube.com/watch?v=OWJCfOvochA)
