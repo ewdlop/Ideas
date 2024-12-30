@@ -194,3 +194,17 @@ Would you like me to elaborate on any of these ideas or search for more informat
 98. Motorized hidden room in attic
 99. Gear-driven secret passage in laundry chute
 100. Retractable hidden escape rope ladder
+
+# Overscoping 
+Based on the project considerations discussed above, there are several approaches we want to avoid in a 100-level chemistry or biology project:
+
+- Experiments requiring highly specialized or expensive equipment
+- Studies that exceed the 6-week timeframe of the course
+- Projects involving dangerous chemicals or hazardous materials
+- Research requiring advanced statistical analysis beyond the scope of the course
+
+Additionally, we want to avoid:
+
+- Projects with inconsistent or difficult-to-measure variables
+- Studies requiring live animal subjects that need special care or ethical approvals
+- Experiments that cannot maintain proper control groups
